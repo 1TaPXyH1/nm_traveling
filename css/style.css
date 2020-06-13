@@ -1,0 +1,27 @@
+/* Header */
+header,footer {
+  background-color: rgba(115, 86, 68, 0.96);
+}
+.navbar-brand {
+ font-size: 18px;
+ font-weight: 600;
+
+}
+.nav-link, .dropdown-item {
+ font-size: 15px;
+ font-weight: 600;
+ text-transform: uppercase;
+
+}
+nav li {
+ padding: 0 18px;
+
+}
+nav li.active, nav li.active:before {
+ background-color: rgba(0, 0, 0, 0.15);
+ border-radius: 5px;
+background-color:rgb(136, 176, 165);
+}
+.carousel a:hover {
+ background: rgba(255, 255, 255, 0.2);
+}
